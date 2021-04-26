@@ -1,0 +1,21 @@
+{
+  "name": "Developers_Team_Mysql",
+  "version": "1.0.0",
+  "description": "Proyecto en mysql\r Equipo formado por Pilar Y Moncho",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForCout/Developers_Team_Mysql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForCout/Developers_Team_Mysql/issues"
+  },
+  "homepage": "https://github.com/ForCout/Developers_Team_Mysql#readme"
+}
